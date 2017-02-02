@@ -12,13 +12,32 @@
 	<legend>Form Title</legend>
 
 	<div class="form-group">
-		<label for=""></label>
-		<input type="text" class="form-control" name="" id="" placeholder="Input...">
+		<label for="">Username</label>
+		<input type="text" class="form-control" name="" id="" placeholder="Usesrname...">
 	</div>
 
-	
+    <div class="form-group">
+        <label for="">Email</label>
+        <input type="text" class="form-control" name="" id="" placeholder="Email...">
+    </div>
 
-	<button type="submit" class="btn btn-primary">Save</button>
+    <div class="form-group">
+        <label for="">Password</label>
+        <input type="text" class="form-control" name="" id="" placeholder="Password...">
+    </div>
+
+
+
+
+    <div class="form-group">
+        <label for="">Level</label>
+        <input type="text" class="form-control" name="" id="" placeholder="Level...">
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary">Save</button>
+
 </form>
 </body>
 </html>
